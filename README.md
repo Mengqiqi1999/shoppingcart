@@ -5,3 +5,6 @@
 4. one buyer can add product to shopping cart.
 5. and when the buyer confirm the cart, the order action will be record to database 
 6. Frond end: React. Back end: Django. Database: Postgres.
+
+firstpush:
+build the admin and shop models.
